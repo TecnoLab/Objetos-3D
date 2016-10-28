@@ -10,7 +10,7 @@ Colección de **objetos imprimibles en 3D** desarrollados en [Tecnolab](http://t
 
 # Autor
 
-* Tecnolab - La Rueca Asociación
+* [Tecnolab](http://tecnolab.larueca.info/) - La Rueca Asociación
 
 # Licencia
 
