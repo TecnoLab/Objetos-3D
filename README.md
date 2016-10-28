@@ -1,3 +1,5 @@
+![](https://github.com/TecnoLab/Objetos-3D/raw/master/wiki/llavero-simple-2.jpg)
+
 # Objetos 3D imprimibles
 
 Colección de **objetos imprimibles en 3D** desarrollados en [Tecnolab](http://tecnolab.larueca.info/) - La Rueca Asociación
@@ -12,7 +14,7 @@ Colección de **objetos imprimibles en 3D** desarrollados en [Tecnolab](http://t
 
 # Licencia
 
-![](https://github.com/TecnoLab/Objetos-3D/raw/master/wiki/llavero-simple-2.jpg)
+![](https://github.com/TecnoLab/Objetos-3D/raw/master/wiki/attribution-share-alike-creative-commons-license.png)
 
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
