@@ -10,6 +10,8 @@ Colección de **objetos imprimibles en 3D** desarrollados en [Tecnolab](http://t
 
 # Autor
 
+![](https://github.com/TecnoLab/Objetos-3D/raw/master/wiki/LogoTecnolab.png)
+
 * [Tecnolab](http://tecnolab.larueca.info/) - La Rueca Asociación
 
 # Licencia
